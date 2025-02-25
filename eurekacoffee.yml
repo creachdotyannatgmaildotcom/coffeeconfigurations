@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: eurekacoffee
+
+server:
+  port: 8070
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+    service-url: http://${eureka.instance.hostname}:${server.port}/eureka/
