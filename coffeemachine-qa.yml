@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: coffeemachine
+
+
+build:
+  version: 2.0
