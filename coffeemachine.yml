@@ -6,4 +6,4 @@ spring:
 build:
   version: 3.0
   
- email: "{cipher}f5b72b7883965d67e5028e544419b1e1dad48e164b8737e5e38a2dc361cc666f"
+email: "{cipher}f5b72b7883965d67e5028e544419b1e1dad48e164b8737e5e38a2dc361cc666f"
